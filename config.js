@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "youshallnotpass",
-      host: "lavalink.jirayu.net",
-      port:  13592,
-      secure: false
+            name: "GlceYT",
+            password: "glace",
+            host: "us-01.strixnodes.com",
+            port: 8003,
+            secure: false
     }
   ]
 }
