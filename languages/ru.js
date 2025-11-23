@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Разработано SSRR | Prime Music v1.2",
+    footer: "Разработано MAYUKH ADHIKARY | DRAGON BEATS v1.2",
     ping: {
       description: "Проверить задержку бота",
       response: "Измерение задержки...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- Время ответа бота: **{latency}мс**",
         websocketPing: "- Пинг WebSocket: **{ping}мс**",
         uptime: "- Время работы: **{uptime}**",
-        footer: "Разработано SSRR | Prime Music v1.2"
+        footer: "Разработано MAYUKH ADHIKARY| DRAGON BEATS v1.2"
       }
     },
     addsong: {
@@ -275,4 +275,5 @@ module.exports = {
       noPermission: "У вас нет прав для использования этой команды.",
       generalError: "- Ошибка: {error}"
     }
+
 };
