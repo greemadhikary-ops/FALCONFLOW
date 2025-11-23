@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR تم التطوير بواسطة | Prime Music v1.2",
+    footer: "MAYUKH ADHIKARY تم التطوير بواسطة | DRAGON BEATS v1.2",
     ping: {
       description: "فحص تأخير البوت",
       response: "جاري قياس التأخير...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- وقت استجابة البوت: **{latency}ms**",
         websocketPing: "- تأخير WebSocket: **{ping}ms**",
         uptime: "- مدة التشغيل: **{uptime}**",
-        footer: "SSRR تم التطوير بواسطة | Prime Music v1.2"
+        footer: "MAYUKH ADHIKARY تم التطوير بواسطة | DRAGON BEATS v1.2"
       }
     },
     addsong: {
@@ -275,4 +275,5 @@ module.exports = {
       noPermission: "ليس لديك صلاحية لاستخدام هذا الأمر.",
       generalError: "- خطأ: {error}"
     }
+
 };
