@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR이(가) 개발 | Prime Music v1.2",
+    footer: "MAYUKH ADHIKARY이(가) 개발 | DRAGON BEATS v1.2",
     ping: {
       description: "봇 지연 시간 확인",
       response: "지연 시간 측정 중...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- 봇 응답 시간: **{latency}ms**",
         websocketPing: "- WebSocket 핑: **{ping}ms**",
         uptime: "- 가동 시간: **{uptime}**",
-        footer: "SSRR이(가) 개발 | Prime Music v1.2"
+        footer: "MAYUKH ADHIKARY 이(가) 개발 | DRAGON BEATS v1.2"
       }
     },
     addsong: {
@@ -275,4 +275,5 @@ module.exports = {
     noPermission: "이 명령어를 사용할 권한이 없습니다.",
     generalError: "- 오류: {error}"
     }
+
     };     
