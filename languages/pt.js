@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Desenvolvido por SSRR | Prime Music v1.2",
+    footer: "Desenvolvido por MAYUKH ADHIKARY| DRAGON BEATS v1.2",
     ping: {
       description: "Verificar latência do bot",
       response: "Medindo latência...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- Tempo de resposta do bot: **{latency}ms**",
         websocketPing: "- Ping do WebSocket: **{ping}ms**",
         uptime: "- Tempo online: **{uptime}**",
-        footer: "Desenvolvido por SSRR | Prime Music v1.2"
+        footer: "Desenvolvido por MAYUKH ADHIKARY | DRAGON BEATS v1.2"
       }
     },
     addsong: {
@@ -275,4 +275,5 @@ module.exports = {
       noPermission: "Você não tem permissão para usar este comando.",
       generalError: "- Erro: {error}"
     }
+
 };
